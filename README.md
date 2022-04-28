@@ -1,4 +1,4 @@
-# os-scheduler-algorithm-simulation
+# Scheduler Algorithm
 Operating System Scheduling Algorithm Simulation
 
 ![alt text](http://i.imgur.com/2mPGAy5.gif)
@@ -25,17 +25,8 @@ o average	turnaround time
 o total	execution	time  
 o process id chart  
 
-# Prerequisites
+# Pre requisites
 - Python 2.7+  
-
-# How to setup
-- Clone repo
-
-- `python pip install -r requirements.txt`
-
-- `python app.py`
-
-- Navigate to `http://127.0.0.1:5000/`
 
 # Future
 - Host on Heroku  
